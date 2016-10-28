@@ -1,3 +1,8 @@
 # ViewDragDemo
 
-<iframe height=360 width=640 src="http://player.youku.com/embed/XNjcyMDU4Njg0">
+
+![Image][1]
+
+
+[1]: https://github.com/z56402344/ViewDragDemo/blob/master/device-2016-10-27-183140.mp4
+
