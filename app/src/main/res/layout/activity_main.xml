@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<duguang.dragdemo.CustomDragLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/mCdQue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/mLlEn"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mLlCn"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/mTvDragView"
+        android:visibility="invisible"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/btn_rectangle_oval_yellow"
+        android:textSize="17sp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+</duguang.dragdemo.CustomDragLayout>
+

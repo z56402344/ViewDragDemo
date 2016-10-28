@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dialog相关 -->
+    <color name="font_color_white">#ffffff</color>
+    <color name="font_color_y">#ff7d00</color>
+    <color name="font_color_b">#515151</color>
+    <color name="font_color_wh">#ffffff</color>
+
+    <!-- 字体主色 -->
+    <color name="titleColor">#525252</color>
+    <color name="titleColor2">#585657</color>
+    <color name="title_left">#FF9600</color>
+    <color name="login_text">#99000000</color>
+    <color name="login_EditText">#99959595</color>
+    <color name="splash_logo_txt">#ff7200</color>
+    <color name="titleColor3">#333333</color>
+
+    <!-- 间隙线color -->
+    <color name="main_line_color">#cccdcf</color>
+    <color name="main_line_color2">#99bababa</color>
+    <!-- 主灰背景色 -->
+    <color name="main_graybg_color">#e3e4e6</color>
+    <color name="tabbar_color">#F8F8F8</color>
+
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <color name="white2">#55738f</color>
+    <color name="white_tra">#aaFFFFFF</color>
+    <color name="white3">#00FFFFFF</color>
+    <!-- 50%透明 -->
+    <color name="white4">#7FFFFFFF</color>
+    <!-- 30%透明 -->
+    <color name="white5">#B3FFFFFF</color>
+    <!-- 90%透明 -->
+    <color name="white6">#E5FFFFFF</color>
+    <!-- 70%透明 -->
+    <color name="white7">#B2FFFFFF</color>
+    <!-- 20%透明 -->
+    <color name="white8">#33FFFFFF</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <color name="black2">#aa000000</color>
+    <color name="black3">#88000000</color>
+    <color name="black4">#333333</color>
+    <color name="black5">#B2000000</color>
+    <color name="black6">#141414</color>
+    <!-- 70%透明 -->
+    <color name="black7">#B3000000</color>
+    <color name="black8">#666666</color>
+    <!-- 30%透明 -->
+    <color name="black9">#4C000000</color>
+
+    <!-- 按钮绿色 -->
+    <color name="green">#009000</color>
+    <color name="green2">#439639</color>
+    <!--  打分字体的绿色 -->
+    <color name="green3">#19ae1d</color>
+    <!-- 选择兴趣的绿色 -->
+    <color name="green_interest">#21933e</color>
+    <color name="green4">#7cc41e</color>
+
+    <!-- 按钮两种橙色 -->
+    <color name="bg_ty_yellow_deep">#FF7000</color>
+    <color name="bg_ty_yellow_deep2">#66FF9700</color>
+    <color name="bg_ty_yellow_deep3">#FF8106</color>
+    <color name="bg_ty_yellow_deep4">#FF9700</color>
+    <color name="bg_ty_yellow">#FF8200</color>
+    <color name="bg_ty_yellow2">#FF8201</color>
+    <color name="yellow2">#FDEC80</color>
+    <color name="voice_yellow1">#4CFF8200</color>
+    <color name="voice_yellow2">#26ff8200</color>
+    <color name="voice_yellow3">#19FF8200</color>
+    <!-- 关卡排行黄色 -->
+    <color name="yellow3">#FDFF46</color>
+    <color name="yellow4">#ff9600</color>
+
+    <!-- 褐色-->
+    <color name="brownness1">#4a2a01</color>
+
+    <!-- 灰色 -->
+    <color name="gray_main_back">#f2f2f2</color>
+    <color name="gray">#A8A8A8</color>
+    <color name="gray2">#bcc9d2</color>
+    <color name="gray3">#e3e4e6</color>
+    <color name="gray4">#F8F8F8</color>
+    <color name="gray5">#F9F9F9</color>
+    <color name="gray6">#D7D7D7</color>
+    <color name="gray7">#9A9A9A</color>
+    <color name="gray8">#b6b6b6</color>
+    <color name="gray9">#cfcfcf</color>
+    <color name="gray10">#66777777</color>
+    <color name="gray11">#e3e3e3</color>
+    <color name="gray_deep">#dd4d4d4d</color>
+    <color name="gray_deep2">#4d4d4d</color>
+    <color name="gray_dot">#cccccc</color>
+    <color name="gray_listitem">#7c7c7c</color>
+    <color name="gray_keyworddialog">#888888</color>
+    <color name="gray_custom_audio_line">#eeece9</color>
+    <color name="gray_12">#828282</color>
+    <color name="gray_13">#c5c5c5</color>
+    <color name="gray_14">#eeeeee</color>
+    <color name="gray_15">#c1c1c1</color>
+    <color name="gray_16">#aaeeeeee</color>
+    <color name="gray_17">#999999</color>
+    <color name="gray_18">#3a3a3a</color>
+    <color name="gray_19">#b4b3b3</color>
+    <color name="gray_20">#777777</color>
+    <color name="gray_21">#c2c2c2</color>
+    <color name="gray_22">#f2f1ee</color>
+    <color name="gray_23">#bebebe</color>
+    <color name="gray_24">#9d9d9d</color>
+    <color name="gray_25">#e6e6e6</color>
+
+    <!-- 选择兴趣的绿色 -->
+    <color name="grary_interest">#874827</color>
+
+    <!-- 蓝色 -->
+    <color name="blue">#4b6a84</color>
+    <color name="bg_blue">#73a3b3</color>
+    <!-- 选择兴趣的蓝色 -->
+    <color name="blue_interest">#1e7f74</color>
+    <color name="blue2">#0180ae</color>
+
+
+    <!-- 红色 -->
+    <color name="red">#FF1A21</color>
+    <color name="red2">#FF5555</color>
+    <color name="red_deep">#932f49</color>
+    <color name="red_3">#ffead5</color>
+    <color name="red4">#c1807c</color>
+    <color name="red5">#844802</color>
+    <color name="red6">#ffecd9</color>
+    <color name="red9">#17FF8201</color>
+    <color name="red10">#f65d4f</color>
+    <color name="red11">#fe5351</color>
+    <color name="red12">#f65c4e</color>
+    <color name="red13">#ff776b</color>
+    <color name="red14">#fc575a</color>
+
+
+    <!--  打分字体的绿色 -->
+    <color name="red7">#fd5040</color>
+    <color name="red8">#f95a47</color>
+
+    <!-- 立即注册铁红色 -->
+    <color name="red_reg_text_color">#215364</color>
+    <!-- 选择兴趣的绿色 -->
+    <color name="red_interest">#ec6a14</color>
+
+    <!-- Dialog相关 -->
+    <color name="text_color">#FFFFFF</color>
+    <color name="divider_color">#11000000</color>
+    <color name="msg_color">#FFFFFFFF</color>
+    <color name="dialog_bg">#FFFFFFFF</color>
+    <color name="title_bg">#22FFFFFF</color>
+
+    <!-- SwipLayout -->
+    <color name="backgroundColor">#E8E8E0</color>
+    <color name="backgroundColorPress">#DBDBD3</color>
+
+    <!-- 选择兴趣的紫色 -->
+    <color name="purple_interest">#c85c90</color>
+    <color name="purple_interest2">#6c5fa4</color>
+
+    <!--  所有成就的颜色 start -->
+    <color name="honor_01">#feb200</color>
+    <color name="honor_02">#54a1fd</color>
+    <color name="honor_03">#ff6944</color>
+    <color name="honor_04">#8185ff</color>
+    <color name="honor_05">#00ba4d</color>
+    <color name="honor_06">#23bbfe</color>
+    <color name="honor_07">#8da6c5</color>
+    <color name="honor_08">#75b233</color>
+    <color name="honor_09">#ffaf36</color>
+    <!--  所有成就的颜色 end -->
+    <color name="search_cancel">#1883ff</color>
+
+    <!--  浮动窗口的透明色 -->
+    <color name="float_transparent">#88000000</color>
+
+    <!-- PDF相关 -->
+    <color name="bar">#C0202020</color>
+
+</resources>
